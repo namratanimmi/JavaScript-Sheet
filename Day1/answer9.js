@@ -1,0 +1,1 @@
+let firstName  = 'Namrata',  lastName = 'Nimmi', maritalStatus = 'Single' , country = 'India', age = 20
